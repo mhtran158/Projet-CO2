@@ -5,7 +5,6 @@ Created on Sun Jun  9 08:38:21 2024
 """
 
 import pandas as pd
-from scipy import stats
 import numpy as np
 import seaborn as sns
 import statsmodels.api as sm
